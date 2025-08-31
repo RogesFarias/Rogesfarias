@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Roges Farias
+# 🧑‍💻 Roges Farias
 
 **`Olá, eu sou o Roges Farias!`**
 
