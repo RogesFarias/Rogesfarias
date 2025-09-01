@@ -2,7 +2,7 @@
 
 **`Olá, eu sou o Roges Farias!`**
 
-Tenho 30 anos e sou natural de Brasilia. Concluí o ensino médio no CEM804, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na CRUZEIRO DO SUL. Sou apaixonada por tecnologia, pretendo se tornar um desenvolvedor full stack.
+Tenho 30 anos e sou natural de Brasilia. Concluí o ensino médio no CEM804, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na CRUZEIRO DO SUL. Sou apaixonado por tecnologia, pretendo se tornar um desenvolvedor full stack.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/roges-farias-1ab199379/?tab=followers">
